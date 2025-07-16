@@ -11,10 +11,9 @@
         <br/>
         <i>Date：2025-07-16 (The last update was on 2025-07-16)</i><br/>
         📖 <a style="font-weight:bold"> <b>Citing in your papers</b><br/></a>
-         
-    </p>
 </div>
 
 <div align=center>
-    <img src="./cv_paper.pdf" width="40%" height="auto">
+    <img src="./cv_paper_Page_1.png" width="70%" height="auto">
+    <img src="./cv_paper_Page_2.png" width="70%" height="auto">
 </div>
